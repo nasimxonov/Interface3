@@ -1,0 +1,104 @@
+{
+    "savollar": [
+        {
+            "savol": "Pythonning asosiy operatorlari qaysilar?",
+            "javoblar": ["+ va -", "* va /", "Barcha javoblar to'g'ri"],
+            "togri": "Barcha javoblar to'g'ri"
+        },
+        {
+            "savol": "Python’da funksiyani qanday e’lon qilinadi?",
+            "javoblar": ["def", "function", "lambda"],
+            "togri": "def"
+        },
+        {
+            "savol": "For loopni qanday to'xtatish mumkin?",
+            "javoblar": ["continue", "break", "pass"],
+            "togri": "break"
+        },
+        {
+            "savol": "Python-da listni qanday tozalash mumkin?",
+            "javoblar": [".clear()", ".remove()", ".delete()"],
+            "togri": ".clear()"
+        },
+        {
+            "savol": "Listga element qo'shish uchun qaysi usul ishlatiladi?",
+            "javoblar": [".append()", ".add()", ".insert()"],
+            "togri": ".append()"
+        },
+        {
+            "savol": "Python'da lambda funksiyasi nima?",
+            "javoblar": ["Anonim funksiya", "Rekursiv funksiya", "Oddiy funksiya"],
+            "togri": "Anonim funksiya"
+        },
+        {
+            "savol": "Listdagi eng katta elementni qanday topamiz?",
+            "javoblar": ["max()", "min()", "len()"],
+            "togri": "max()"
+        },
+        {
+            "savol": "Dictionary'dagi kalitlarga qanday murojaat qilamiz?",
+            "javoblar": [".values()", ".keys()", ".items()"],
+            "togri": ".keys()"
+        },
+        {
+            "savol": "Python qaysi turdagi til?",
+            "javoblar": ["Statik tipli", "Dinamik tipli", "Ikkalasiga ham mos keladi"],
+            "togri": "Dinamik tipli"
+        },
+        {
+            "savol": "Python'da stringlarni birlashtirish uchun qaysi operator ishlatiladi?",
+            "javoblar": ["+", "*", "&"],
+            "togri": "+"
+        },
+        {
+            "savol": "Tupleni qanday o'zgartirish mumkin?",
+            "javoblar": ["append() yordamida", "O'zgartirib bo'lmaydi", "insert() yordamida"],
+            "togri": "O'zgartirib bo'lmaydi"
+        },
+        {
+            "savol": "Dictionary'dagi kalitlar unikal bo'lishi kerakmi?",
+            "javoblar": ["Ha", "Yo'q", "Faqat sonlar bo'lishi kerak"],
+            "togri": "Ha"
+        },
+        {
+            "savol": "Setdagi elementlar qanday tartiblanadi?",
+            "javoblar": ["Qo'shilgan tartibda", "Tasodifiy tartibda", "Alfavit tartibida"],
+            "togri": "Tasodifiy tartibda"
+        },
+        {
+            "savol": "Python'da qiymatni ekranga chiqarish uchun qaysi funksiya ishlatiladi?",
+            "javoblar": ["input()", "print()", "write()"],
+            "togri": "print()"
+        },
+        {
+            "savol": "Fayldan ma'lumotni o'qish uchun qaysi metod ishlatiladi?",
+            "javoblar": ["read()", "write()", "close()"],
+            "togri": "read()"
+        },
+        {
+            "savol": "Stringni bo'sh joylardan tozalash uchun qaysi metod ishlatiladi?",
+            "javoblar": [".strip()", ".remove()", ".replace()"],
+            "togri": ".strip()"
+        },
+        {
+            "savol": "Pythonning asosiy ma'lumot turlari qaysilar?",
+            "javoblar": ["int, float, str", "int, char, bool", "float, str, bool"],
+            "togri": "int, float, str"
+        },
+        {
+            "savol": "Rekursiv funksiya nima?",
+            "javoblar": ["O'zini chaqiruvchi funksiya", "O'zgaruvchan funksiya", "Oddiy funksiya"],
+            "togri": "O'zini chaqiruvchi funksiya"
+        },
+        {
+            "savol": "Python'da fayl yaratish uchun qaysi funksiya ishlatiladi?",
+            "javoblar": ["create()", "open()", "write()"],
+            "togri": "open()"
+        },
+        {
+            "savol": "Modulni import qilish uchun qaysi so'z ishlatiladi?",
+            "javoblar": ["import", "include", "require"],
+            "togri": "import"
+        }
+    ]
+}
